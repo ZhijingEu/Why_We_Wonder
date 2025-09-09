@@ -1,13 +1,25 @@
-# Why_We_Wonder
-A collaborative card game of reflection, philosophy, and shared ideas
----
+# 🌟 Why We Wonder — Quick Start Guide
+
+**A card game of reflection, philosophy, and shared ideas**  
 
 2–4 players · 30–60 minutes · Ages 12+
+
+Created by Zhijing Eu (ZhijingEu@Yahoo.Com) + ChatGPT-5
 
 ---
 
 ## 🎯 The Idea
 *Why We Wonder* is a **non-competitive game** designed to spark **meaningful dialogue**. Inspired by history's greatest thinkers, players explore timeless questions together by linking ideas into a shared chain of thought.
+
+This project blends **AI assistance, open crowd sourced knowledge (from Wikipedia), and playful design** to create a unique learning tool for exploring philosophy together. (Read the ["How the Game Was Generated"](https://github.com/ZhijingEu/Why_We_Wonder/edit/main/README.md#%EF%B8%8F-how-the-game-was-generated) section below for more info on how this was created)
+
+---
+
+## 💻 Play Online
+You can also try a **digital version** of the game on PlayingCards.io:  
+👉 [Play *Why We Wonder* Online](https://playingcards.io/bzcseg)
+
+This virtual version mirrors the tabletop experience, allowing you to experiment with the cards and rules with friends anywhere in the world.
 
 ---
 
@@ -48,6 +60,13 @@ Each card shows:
 ---
 
 ## ✨ Tips for Play
-- Be generous: every idea is a gift to the group.
-- Be clear: explain your links so others can follow.
-- Be curious: ask questions, explore, and have fun!
+- Be generous: every idea is a gift to the group.  
+- Be clear: explain your links so others can follow.  
+- Be curious: ask questions, explore, and have fun!  
+
+---
+
+## 🛠️ How the Game Was Generated
+- **Rules and card text** were developed through collaboration with *ChatGPT-5*.  
+- **Card art and hyperlinks** are sourced from [Wikipedia](https://wikipedia.com).  
+- **QR Codes** linking to each philosopher’s Wikipedia page were generated programmatically.  
