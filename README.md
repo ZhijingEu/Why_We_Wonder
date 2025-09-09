@@ -11,7 +11,7 @@ Created by Zhijing Eu (ZhijingEu@Yahoo.Com) + ChatGPT-5
 ## 🎯 The Idea
 *Why We Wonder* is a **non-competitive game** designed to spark **meaningful dialogue**. Inspired by history's greatest thinkers, players explore timeless questions together by linking ideas into a shared chain of thought.
 
-This project blends **AI assistance, open crowd sourced knowledge (from Wikipedia), and playful design** to create a unique learning tool for exploring philosophy together. (Read the ["How the Game Was Generated"](https://github.com/ZhijingEu/Why_We_Wonder/main/README.md#%EF%B8%8F-how-the-game-was-generated) section below for more info on how this was created)
+This project blends **AI assistance, open crowd sourced knowledge (from Wikipedia), and playful design** to create a unique learning tool for exploring philosophy together. (Read the ["How the Game Was Generated"](https://github.com/ZhijingEu/Why_We_Wonder/README.md#%EF%B8%8F-how-the-game-was-generated) section below for more info on how this was created)
 
 ---
 
