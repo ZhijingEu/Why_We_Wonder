@@ -68,5 +68,5 @@ Each card shows:
 
 ## 🛠️ How the Game Was Generated
 - **Rules and card text** were developed through collaboration with *ChatGPT-5*.  
-- **Card art and hyperlinks** are sourced from [Wikipedia](https://wikipedia.com).  
-- **QR Codes** linking to each philosopher’s Wikipedia page were generated programmatically.  
+- **Card art and hyperlinks** are sourced from [Wikipedia](https://wikipedia.com) and downloaded & resized as per the Automated_Wikimedia_Download_Resize_Images.ipynb within this repo  
+- **QR Codes** linking to each philosopher’s Wikipedia page were generated programmatically as per the Automated_QR_Code_Generation.ipynb within this repo 
