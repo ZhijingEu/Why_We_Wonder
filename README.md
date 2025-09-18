@@ -8,6 +8,10 @@ Created by Zhijing Eu (ZhijingEu@Yahoo.Com) + ChatGPT-5
 
 ---
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zrHp-RIohlk/0.jpg)](https://www.youtube.com/watch?v=zrHp-RIohlk)
+
+https://www.youtube.com/watch?v=zrHp-RIohlk
+
 ## 🎯 The Idea
 *Why We Wonder* is a **non-competitive game** designed to spark **meaningful dialogue**. Inspired by history's greatest thinkers, players explore timeless questions together by linking ideas into a shared chain of thought.
 
