@@ -50,7 +50,7 @@ Each card shows:
 ## 🔄 How to Play
 1. On your turn, play one card from your hand to **connect it** to any card already in play.
    - Your “link” may reference the **question**, the **category**, or the **philosopher’s idea**.
-   - Other players can **challenge unclear links** — if the group agrees, the card is not played and the player draws a new card and end their turn without playing a card
+   - Other players can **challenge unclear links** — if the group agrees, the card is not played and the player draws a new card and ends their turn without playing a card
 2. Play continues clockwise, building **paths of connected ideas**.
    - Threads may branch, loop, or stall — not all paths will succeed.
 3. The **goal** is to eventually link the chain of cards back to the **Destination** card.
