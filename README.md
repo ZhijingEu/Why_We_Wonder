@@ -12,6 +12,9 @@ Created by Zhijing Eu (ZhijingEu@Yahoo.Com) + ChatGPT-5
 
 https://www.youtube.com/watch?v=zrHp-RIohlk
 
+## Updates
+- 2025-09-29 : Added 28 NEW cards to the deck and a LLM Prompt that can be fed to any LLM (ChatGPT, Gemini, Claude , Grok) in order for it to act as a Virtual Facilitator [*LLM Facilitator Prompt*](https://github.com/ZhijingEu/Why_We_Wonder/blob/main/LLM_Facilitator_Prompt.pdf)
+
 ## 🎯 The Idea
 *Why We Wonder* is a **non-competitive game** designed to spark **meaningful dialogue**. Inspired by history's greatest thinkers, players explore timeless questions together by linking ideas into a shared chain of thought.
 
@@ -49,7 +52,8 @@ Each card shows:
 
 ## 🔄 How to Play
 1. On your turn, play one card from your hand to **connect it** to any card already in play.
-   - Your “link” may reference the **question**, the **category**, or the **philosopher’s idea**.
+   - Your “link” should reference primarily the **question** or the **key idea** on the cards
+   - However you may also focus on historical ties between thinkers or even thematic overlaps (or contrasts) between schools of thought  
    - Other players can **challenge unclear links** — if the group agrees, the card is not played and the player draws a new card and ends their turn without playing a card
 2. Play continues clockwise, building **paths of connected ideas**.
    - Threads may branch, loop, or stall — not all paths will succeed.
@@ -66,8 +70,15 @@ Each card shows:
 ## ✨ Tips for Play
 - Be generous: every idea is a gift to the group.  
 - Be clear: explain your links so others can follow.  
-- Be curious: ask questions, explore, and have fun!  
+- Be curious: ask questions, explore, and have fun! '
 
+---
+
+## LLM Virtual Facilitator 
+- Below is a link to LLM Prompt that can be fed to any LLM (ChatGPT, Gemini, Claude , Grok) in order for it to act as a Virtual Facilitator [*LLM Facilitator Prompt*](https://github.com/ZhijingEu/Why_We_Wonder/blob/main/LLM_Facilitator_Prompt.pdf)
+- Example Prompt + Upload the PDF Prompt document : You are the facilitator for a game of Why We Wonder. Please read the attached pdf guidance. The start card is XYZ and the end card is QRS. Players will share the cards they play and their reasoning. Respond by evaluating their links, suggesting possible bridges if requested, or analyzing the whole path. Stay neutral, encouraging, and concise.
+- If your LLM of choice is Multi-Modal - experiment on how you interact by using PICTURES of the playboard or AUDIO to "converse" with the virtual facilitator
+ 
 ---
 
 ## 🛠️ How the Game Was Generated
